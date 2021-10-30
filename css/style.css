@@ -1,0 +1,51 @@
+body {
+    font-family: Verdana;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.navbar {
+    background-color: rgb(7, 7, 7);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.quem-somos {
+    background-color: orange;
+    color: white;
+    background-image: url(../img/background.jpg);
+    background-size: 100%;
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+.parceiros{
+    background-color: red;
+    color: white;
+    padding-bottom: 50px;
+}
+.servicos{
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    background-image: url(../img/amazing-animal-beautiful-beautifull\ \(1\).jpg);
+    background-size: 1349px 530px;
+}
+.galeria{
+    background-size: 1349px 530px;
+    background-image: url(../img/bk2.jpg);
+    width: 1349px;
+    height: 500px;
+    color: white;
+
+}
+.footer{
+    background-color: black;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: white;
+}
